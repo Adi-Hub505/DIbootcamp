@@ -1,0 +1,46 @@
+body {
+    text-align: right;
+    direction: rtl;
+    color: aliceblue;
+    background-image: url(https://img.freepik.com/free-photo/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall_1258-28313.jpg?size=626&ext=jpg&ga=GA1.1.1803636316.1701043200&semt=ais);
+}
+h1 {
+    text-align: center;
+    font-size: 70px;
+    margin: 0 auto;
+}
+
+
+#parker {
+     width: 600px; height: 400px;
+     margin: 0 auto;
+}
+#div1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    text-align: center;
+}
+
+.piter {
+    width: 100%;
+    color: aliceblue;
+    font-weight: bold;
+    background-image: url(https://www.shutterstock.com/image-photo/red-background-600nw-635117411.jpg);
+    
+}
+
+h3 {
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    text-align: left;
+    margin: 60px;
+    font-size: 30px;
+}
+#div2 {
+    float: left;
+    width:200px;
+    height: 300px;
+}

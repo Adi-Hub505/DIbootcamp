@@ -1,0 +1,27 @@
+p {
+    color: yellow;
+}
+#first {
+    width:50%;
+    margin: 50px;
+}
+body {
+    background-color: white;
+}
+#red {
+    color: blue;
+}
+#bold {
+    font-weight: bold;
+}
+div {
+    background-color: red;
+    padding: 50px;
+    margin: 100px;
+    border-radius: 50px;
+    
+}
+img {
+    border-radius: 50px;
+    
+}
