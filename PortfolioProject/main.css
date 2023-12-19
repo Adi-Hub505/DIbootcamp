@@ -1,0 +1,28 @@
+.header {
+    background-image: url(headerback.jpg);
+    height: 100vh;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+nav {
+    z-index: 1;
+}
+.adi{
+    position: absolute;
+    min-height: 100vh;
+    min-width: 100vw;
+    left: 0;
+
+    background-color: rgba(128, 128, 179, 0.79)
+    
+}
+.description {
+ position: absolute;  
+ text-align: left;
+ top: 30%; 
+ left: 20%;
+} 
+p {
+    width: 50%;
+}
